@@ -2,8 +2,7 @@
 
 ⚙️ I'm Ruby, an incoming student at the University of British Columbia studying engineering. 
 
-🎨 Art and design is practically in my bones and guides a lot, if not everything I do! 
-From organizing the coolest (if I may say so myself) hackathons to pursuing my degree, I'm always tapping into my creativity and bridging art to what I do. 
+🎨 Art and design is practically in my bones and guides everything I do! From organizing the coolest (if I may say so myself) hackathons to pursuing my degree, I'm always tapping into my creativity and bridging art to what I do. 
 
 🌱 **Currently,** I'm spending my summer organizing [Shipwrecked](https://shipwrecked.hackclub.com/), the world's first hackathon on an island and exploring software and hardware by building.
 
