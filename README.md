@@ -1,13 +1,13 @@
 ## 👋 Hello!
 
 ⚙️ I'm Ruby, an incoming student at the University of British Columbia studying engineering. 
-
-🎨 Art and design is practically in my bones and guides everything I do! From organizing the coolest (if I may say so myself) hackathons to pursuing my degree, I'm always tapping into my creativity and bridging art to what I do. 
+<br>
+🎨 Art and design is practically in my bones and guides everything I do! From organizing the coolest (if I may say so myself) hackathons to pursuing my degree, I'm always bringing my art into what I do. 
 
 🌱 **Currently,** I'm spending my summer organizing [Shipwrecked](https://shipwrecked.hackclub.com/), the world's first hackathon on an island and exploring software and hardware by building.
 
 ### Get in Touch!
-I'm always open to new opportunities or for a chat, find me on [LinkedIn](https://www.linkedin.com/in/ruby-ke/) or reach out to me at rubyjke@gmail.com!
+📫 I'm always open to new opportunities or for a chat, find me on [LinkedIn](https://www.linkedin.com/in/ruby-ke/) or reach out to me at rubyjke@gmail.com!
 <!--
 **rubyjke/rubyjke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
