@@ -8,7 +8,7 @@ From organizing the coolest (if I may say so myself) hackathons to pursuing my d
 🌱 **Currently,** I'm spending my summer organizing [Shipwrecked](https://shipwrecked.hackclub.com/), the world's first hackathon on an island and exploring software and hardware by building.
 
 ### Get in Touch!
-I'm always open to new opportunities or for a chat, find me on [LinkedIn](https://www.linkedin.com/in/ruby-ke/ or reach out to me at rubyjke@gmail.com!
+I'm always open to new opportunities or for a chat, find me on [LinkedIn](https://www.linkedin.com/in/ruby-ke/) or reach out to me at rubyjke@gmail.com!
 <!--
 **rubyjke/rubyjke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
