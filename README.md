@@ -7,7 +7,7 @@
 💻 Hackathons I've helped bring to life: [Shipwrecked](https://shipwrecked.hackclub.com/), [Scrapyard](https://scrapyard.hackclub.com/), and [JAMHacks 9](https://www.jamhacks.ca/)
 
 ### Get in Touch!
-📫 I'm always open to new opportunities or for a chat, find me on [LinkedIn](https://www.linkedin.com/in/ruby-ke/) or reach out to me at rubyjke@gmail.com
+📫 I'm always open to new opportunities or for a chat, find me on [LinkedIn](https://www.linkedin.com/in/ruby-ke/) or reach out to me at rubyke@student.ubc.ca
 <!--
 **rubyjke/rubyjke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
