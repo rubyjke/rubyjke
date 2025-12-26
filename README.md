@@ -4,7 +4,7 @@
 <br>
 🎨 Art and design is practically in my bones and guides everything I do! From organizing the coolest (if I may say so myself) hackathons to pursuing my degree hoping to bridge art and technology, I'm always bringing my art into what I do. 
 
-💻 One of my favourite things to do is to organize hackathons! Some I've been involved with have been [Shipwrecked](https://shipwrecked.hackclub.com/), [Scrapyard](https://scrapyard.hackclub.com/), and [JAMHacks 9](https://www.jamhacks.ca/)
+💻 Hackathons I've helped bring to life: [Shipwrecked](https://shipwrecked.hackclub.com/), [Scrapyard](https://scrapyard.hackclub.com/), and [JAMHacks 9](https://www.jamhacks.ca/)
 
 ### Get in Touch!
 📫 I'm always open to new opportunities or for a chat, find me on [LinkedIn](https://www.linkedin.com/in/ruby-ke/) or reach out to me at rubyjke@gmail.com
